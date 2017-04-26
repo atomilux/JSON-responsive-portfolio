@@ -534,6 +534,22 @@ var das_data = {
 			"images":[
 				"images/_CREATIVE/fm1th.jpg"
 			]
+		},
+		{
+			"category":"creative",
+			"title":"WELLVANA LOGO STUDY",
+			"strength_creative":8,
+			"strength_code":0,
+			"objective":"Concept a logo that communicates true comprehensive healthcare from physical, mental and spiritual aspects.",
+			"solution":[
+				"The first logo reflects a central hub with health as the focus",
+				"The second logo shows overlaps of various care forming the whole and incorporating the 'W' and 'V' from the company name",
+				"The third logo focuses on literal depictions of folders working to create the 'W' from the name"
+			],
+			"skillset":"Art Direction, Logo Design, Graphic Design",
+			"images":[
+				"images/_CREATIVE/logoWellvana.png"
+			]
 		}
 
 	]
